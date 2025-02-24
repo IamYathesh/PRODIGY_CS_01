@@ -5,6 +5,6 @@ This is the first task for the Cyber Security Intern role, where we implement th
 
 The Caesar Cipher algorithm is a substitution cipher that shifts each letter in the text by a fixed number of places down or up the alphabet. The code allows both encryption and decryption of messages using the cipher.
 
-- **Encryption: Encrypt a message by shifting each letter by a specified key.
-- **Decryption: Decrypt an encrypted message using the same key.
+- Encryption: Encrypt a message by shifting each letter by a specified key.
+- Decryption: Decrypt an encrypted message using the same key.
 - Custom Shift: Supports custom shift values to make the cipher more flexible.
