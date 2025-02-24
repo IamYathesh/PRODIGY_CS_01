@@ -21,8 +21,8 @@ def caesar_cipher(text, shift, mode="encrypt"):
     return result
 
 # User Interaction
-print("Welcome to the Caesar Cipher Implementation Program !!!")
-print("-------------------------------------------------------\n")
+print("-------------------------------------------- Caesar Cipher Tool --------------------------------------------------")
+print("")
 while True:
     mode = input("Do you want to 'Encrypt' or 'Decrypt' a message? (type 'Exit' to quit): ").lower()
     if mode == "exit":
